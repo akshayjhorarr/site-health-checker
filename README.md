@@ -5,7 +5,7 @@ performance, SSL, availability, and response time
 for any website URL.
 
 ## 🔗 Live Demo
-[View Live Tool](https://akshayjhorarr.github.io/site-health-checker)
+[View Live https://akshayjhorarr.github.io/site-health-checker/
 
 ## 💡 About This Project
 Built to simulate real-world website health checks
