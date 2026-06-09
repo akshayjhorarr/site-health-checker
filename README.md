@@ -4,8 +4,8 @@ A real-time website diagnostic tool that checks
 performance, SSL, availability, and response time
 for any website URL.
 
-## 🔗 Live Demo
-[View Live https://akshayjhorarr.github.io/site-health-checker/
+## 🔗 Live Demo https://akshayjhorarr.github.io/site-health-checker/index.html
+
 
 ## 💡 About This Project
 Built to simulate real-world website health checks
